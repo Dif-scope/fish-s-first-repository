@@ -1,0 +1,13 @@
+# 编译产物
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+
+# 常见输出文件夹
+build/
+debug/
+release/
+bin/
+output/
