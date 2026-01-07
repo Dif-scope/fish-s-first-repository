@@ -7,9 +7,9 @@ int*p=&a,*q=&b;
 void exchange(int *ptr1,int *ptr2)
 {
 	int temp;
-	temp=*p;
-	*p=*q;
-	*q=temp;
+	temp=*ptr1;
+	*ptr1=*ptr2;
+	*ptr2=temp;
  } 
 
 int main()
