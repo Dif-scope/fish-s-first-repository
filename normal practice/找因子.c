@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//求一个数的因子之和
 int fun(int n)
 {
     int sum=0;
